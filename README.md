@@ -2,6 +2,8 @@
 
 Учебный проект "Интернет магазин одежды Lomoda"
 
+Ссылка для просмотра --- https://darkkisblack.github.io/shop-room/index.html
+
 Использовано для написания проекта:
 
 1. HTML;
